@@ -1,0 +1,4 @@
+const JUHE_APPKEY = 'fe0070fd7472a07b5927cefd98d281eb'
+// '0f094ae07170ee64cde4510914a18061'
+
+export default JUHE_APPKEY
